@@ -1,3 +1,4 @@
+document.addEventListener("DOMContentLoaded", function() {
         const editor = document.getElementById('editor');
 
         function copyText() {
